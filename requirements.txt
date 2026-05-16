@@ -39,9 +39,8 @@ task 6 is in readme.md in github repo
 
 ##============TASK 7 = BUSINESS USE CASE MAPPING===============
 
-# TASK 7: BUSINESS USE CASE MAPPING
 
-## AGRICULTURAL DOMAIN
+# AGRICULTURAL DOMAIN
 
 Computer vision models like the above one have applications in agriculture for detecting plant diseases and crop monitoring.
 
