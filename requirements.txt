@@ -1,0 +1,57 @@
+##========Task 1 = PROBLEM IDENTIFICATION==========
+Problem Type: Object Detection
+This problem can be considered an object detection task.
+
+Why?
+    The images contain visible product defects such as:
+
+1. dents
+2. scratches
+3. stains
+
+Unlike image classification object detection not only determines the class but also:
+
+1. recognizes the defect type
+2. finds the defect within the image
+
+This method is better since defects can have various shapes and locations.
+
+Why Object Detection Fits Well
+
+In a practical industrial setting, the following features should be met:
+
+1. finding the exact location of the defects
+2. finding multiple defects per one object
+3. automation of visual inspection systems
+4. marking of the defect areas for quality assurance
+
+Why Other Problem Types Do Not Fit
+
+1. Image classification: detects one label for the whole image and does not find defects.
+2. Semantic segmentation: detects objects on a pixel-level which means higher complexity and the use of segmentation masks.
+3. Instance segmentation: detects individual objects on an instance basis and uses masks.
+
+object detection is a suitable computer vision problem for the given problem statement since the goal includes both defect recognition and localization in the image.
+
+
+##===========TASK 6 = CNN CONCEPT EXPLAINATION=============
+task 6 is in readme.md in github repo 
+
+##============TASK 7 = BUSINESS USE CASE MAPPING===============
+
+# TASK 7: BUSINESS USE CASE MAPPING
+
+## AGRICULTURAL DOMAIN
+
+Computer vision models like the above one have applications in agriculture for detecting plant diseases and crop monitoring.
+
+The CNN model can help in identifying plant diseases by analyzing the images of plants’ leaves, fruits, and crops.
+
+Applications in agriculture include the following:
+- enables early detection of plant diseases by farmers
+- increases the quality and quantity of produce
+- saves time since it automates the process
+- enhances decision-making ability and speed
+- prevents crop losses
+
+In an example, a farmer can use cameras or drones to take pictures of plants' leaves, and the CNN will determine whether the plants are infected by any disease.
