@@ -1,5 +1,7 @@
 # part-2-cnn-computer-vision
 
+dataset sources = https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 ##============TASK 6 = CNN CONCEPT EXPLAINATION===============
 
 
